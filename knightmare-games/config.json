@@ -4,6 +4,7 @@
     "Company Secondary Color": "0x000000",
     "Company Website": "Knightmare.games",
     "Company Custom Tournament Join Message": {
+        "Active": "True",
         "Embed Title": "OOOOWEEE DOG",
         "Embed Message": "Sometimes it makes sense to just let it all rain down like fiery asteroids\nOther times you just need a nice cold cut.",
         "Embed Link": "",
